@@ -35,7 +35,7 @@ function Portfolio() {
 			name: 'Spa 404 getaway',
 			description:
 				'A lean and accurate way to search for your favorite songs while also displaying the lyrics.',
-			image: 'filmgoproject.jpg',
+			image: 'spa.png',
 			technologies: ['HTML/CSS', 'JavaScript', 'jQuery'],
 			github: 'https://github.com/AliceBryer/Spa-Retreat-Project',
 			deployed: 'https://spa-retreat-app.herokuapp.com/',
@@ -44,7 +44,7 @@ function Portfolio() {
 			name: 'Weather dashboard',
 			description:
 				'Budget Tracker is an Application that uses a noSQL database and offline persistance for a great user experience for managing their finances and budgeting no matter where they are.',
-			image: 'codecollege.png',
+			image: 'Weather-Dashboard_.png',
 			technologies: [
 				'JavaScript',
 				'MongoDB',
