@@ -1,26 +1,27 @@
 {
   "files": {
     "main.css": "/The-React-Portfolio-/static/css/main.82953641.css",
-    "main.js": "/The-React-Portfolio-/static/js/main.f7038804.js",
+    "main.js": "/The-React-Portfolio-/static/js/main.a6e714fa.js",
     "static/js/787.1ed0c42c.chunk.js": "/The-React-Portfolio-/static/js/787.1ed0c42c.chunk.js",
+    "static/media/spa.png": "/The-React-Portfolio-/static/media/spa.176879954f354aec5a20.png",
     "static/media/codecollege.png": "/The-React-Portfolio-/static/media/codecollege.e02a1cd55221d18fbd5d.png",
     "static/media/flash-beats-image.gif": "/The-React-Portfolio-/static/media/flash-beats-image.dcd02a7353abef6cb851.gif",
     "static/media/living-real-image.png": "/The-React-Portfolio-/static/media/living-real-image.97826efd83613a4add50.png",
     "static/media/recent-photo.jpg": "/The-React-Portfolio-/static/media/recent-photo.87795406abc4c2c2e25b.jpg",
     "static/media/webpage-screenshot.png": "/The-React-Portfolio-/static/media/webpage-screenshot.31eb4b6c2b2c094f266f.png",
     "static/media/filmgoproject.jpg": "/The-React-Portfolio-/static/media/filmgoproject.cfb99842787877f80d8f.jpg",
-    "static/media/weather-dashboard-image.png": "/The-React-Portfolio-/static/media/weather-dashboard-image.23797370ef5517d07799.png",
+    "static/media/Weather-Dashboard_.png": "/The-React-Portfolio-/static/media/Weather-Dashboard_.ed12c5befa17f4dc2372.png",
     "static/media/budget-tracker-image.png": "/The-React-Portfolio-/static/media/budget-tracker-image.58cb45d09439671728e0.png",
     "static/media/auto-tracker-image.png": "/The-React-Portfolio-/static/media/auto-tracker-image.b43f2f3cab833f6be953.png",
     "static/media/password-generator-image.png": "/The-React-Portfolio-/static/media/password-generator-image.989cc2dfb9156017c12d.png",
     "static/media/note-taker-image.png": "/The-React-Portfolio-/static/media/note-taker-image.704b6d82c169a0e5e3fa.png",
     "index.html": "/The-React-Portfolio-/index.html",
     "main.82953641.css.map": "/The-React-Portfolio-/static/css/main.82953641.css.map",
-    "main.f7038804.js.map": "/The-React-Portfolio-/static/js/main.f7038804.js.map",
+    "main.a6e714fa.js.map": "/The-React-Portfolio-/static/js/main.a6e714fa.js.map",
     "787.1ed0c42c.chunk.js.map": "/The-React-Portfolio-/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82953641.css",
-    "static/js/main.f7038804.js"
+    "static/js/main.a6e714fa.js"
   ]
 }
