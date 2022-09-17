@@ -21,10 +21,10 @@ function Portfolio() {
 			deployed: '',
 		},
 		{
-			name: 'Auto Tracker',
+			name: 'Code College',
 			description:
 				'This is your personal automobile information tracking system. Track time dependent, vehicle specific information from a single application, available on any web-enabled device.',
-			image: 'filmgoproject.jpg',
+			image: 'codecollege.png',
 			technologies: [
 				'HTML/CSS',
 				'JavaScript',
