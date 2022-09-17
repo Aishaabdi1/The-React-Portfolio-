@@ -6,24 +6,19 @@ function Portfolio() {
 		{
 			name: 'film-go',
 			description:
-				'This is a property management system that is used by landlords viewing and managing their properties and for tenants to allow for maintenance requests and pay rent.',
+				'This project allows you to browse films and save it on a wishlist.',
 			image: 'filmgoproject.jpg',
 			technologies: [
 				'HTML/CSS',
 				'JavaScript',
-				'Node.js',
-				'Express & NoSQL',
-				'Heroku & AWS S3',
-				'React.js',
-				'MERN Stack',
+				'Web APIs',
 			],
-			github: 'https://github.com/',
-			deployed: '',
+			github: 'https://github.com/RamiElsayed/film-go',
+			deployed: 'https://ramielsayed.github.io/film-go/',
 		},
 		{
 			name: 'Code College',
-			description:
-				'This is your personal automobile information tracking system. Track time dependent, vehicle specific information from a single application, available on any web-enabled device.',
+			description:'A learning tracker to help users track their progress when learning programming languages.',
 			image: 'codecollege.png',
 			technologies: [
 				'HTML/CSS',
@@ -33,20 +28,20 @@ function Portfolio() {
 				'Express & Sequelize',
 				'Heroku & AWS S3',
 			],
-			github: 'https://github.com/',
-			deployed: '',
+			github:'https://github.com/mohamedisaaq0/Code-College',
+			deployed: 'https://desolate-reef-02788.herokuapp.com/',
 		},
 		{
-			name: 'spa 404 getaway',
+			name: 'Spa 404 getaway',
 			description:
-				'A clean and accurate way to search for your favorite songs while also displaying the lyrics.',
+				'A lean and accurate way to search for your favorite songs while also displaying the lyrics.',
 			image: 'filmgoproject.jpg',
 			technologies: ['HTML/CSS', 'JavaScript', 'jQuery'],
-			github: 'https://github.com/',
-			deployed: '',
+			github: 'https://github.com/AliceBryer/Spa-Retreat-Project',
+			deployed: 'https://spa-retreat-app.herokuapp.com/',
 		},
 		{
-			name: 'password generator',
+			name: 'Weather dashboard',
 			description:
 				'Budget Tracker is an Application that uses a noSQL database and offline persistance for a great user experience for managing their finances and budgeting no matter where they are.',
 			image: 'codecollege.png',
@@ -57,8 +52,8 @@ function Portfolio() {
 				'Node.js',
 				'Express',
 			],
-			github: 'https://github.com/',
-			deployed: '',
+			github: 'https://github.com/Aishaabdi1/Weather-Dashboard',
+			deployed: 'https://aishaabdi1.github.io/Weather-Dashboard/',
 		},
 		
 	];
