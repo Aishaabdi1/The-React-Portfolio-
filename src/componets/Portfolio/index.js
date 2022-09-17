@@ -4,10 +4,10 @@ import Project from '../Project';
 function Portfolio() {
 	const projects = [
 		{
-			name: 'Living Real',
+			name: 'film-go',
 			description:
 				'This is a property management system that is used by landlords viewing and managing their properties and for tenants to allow for maintenance requests and pay rent.',
-			image: 'living-real-image.png',
+			image: 'filmgoproject.jpg',
 			technologies: [
 				'HTML/CSS',
 				'JavaScript',
@@ -24,7 +24,7 @@ function Portfolio() {
 			name: 'Auto Tracker',
 			description:
 				'This is your personal automobile information tracking system. Track time dependent, vehicle specific information from a single application, available on any web-enabled device.',
-			image: 'auto-tracker-image.png',
+			image: 'filmgoproject.jpg',
 			technologies: [
 				'HTML/CSS',
 				'JavaScript',
@@ -37,19 +37,19 @@ function Portfolio() {
 			deployed: '',
 		},
 		{
-			name: 'Flash Beats',
+			name: 'spa 404 getaway',
 			description:
 				'A clean and accurate way to search for your favorite songs while also displaying the lyrics.',
-			image: 'flash-beats-image.gif',
+			image: 'filmgoproject.jpg',
 			technologies: ['HTML/CSS', 'JavaScript', 'jQuery'],
 			github: 'https://github.com/',
 			deployed: '',
 		},
 		{
-			name: 'Budget Tracker',
+			name: 'password generator',
 			description:
 				'Budget Tracker is an Application that uses a noSQL database and offline persistance for a great user experience for managing their finances and budgeting no matter where they are.',
-			image: 'budget-tracker-image.png',
+			image: 'codecollege.png',
 			technologies: [
 				'JavaScript',
 				'MongoDB',
